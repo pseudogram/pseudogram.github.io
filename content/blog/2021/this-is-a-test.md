@@ -7,8 +7,6 @@ type: post
 tags:
   - blog
 ---
-![./blog/img](props.png)
-
 this is a test about some shit
 
 i don't know if the hardlinks work

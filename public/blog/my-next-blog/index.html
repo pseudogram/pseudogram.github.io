@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-	<meta name="generator" content="Hugo 0.121.1">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,26 +17,26 @@
     
 
     
-    <title>David Attlee</title>
+    <title>My Next Blog</title>
     <meta name="description" content="An occasional sprinkle of bullshit.">
-    <meta name="keywords" content=''>
+    <meta name="keywords" content='blog'>
 
-    <meta property="og:url" content="davidattlee.com/">
+    <meta property="og:url" content="davidattlee.com/blog/my-next-blog/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="David Attlee">
+    <meta property="og:title" content="My Next Blog">
     <meta property="og:description" content="An occasional sprinkle of bullshit.">
     <meta property="og:image" content="davidattlee.com">
     <meta property="og:image:secure_url" content="davidattlee.com">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="David Attlee">
+    <meta name="twitter:title" content="My Next Blog">
     <meta name="twitter:description" content="An occasional sprinkle of bullshit.">
-    <meta property="twitter:domain" content="davidattlee.com/">
-    <meta property="twitter:url" content="davidattlee.com/">
+    <meta property="twitter:domain" content="davidattlee.com/blog/my-next-blog/">
+    <meta property="twitter:url" content="davidattlee.com/blog/my-next-blog/">
     <meta name="twitter:image" content="davidattlee.com">
 
     
-    <link rel="canonical" href="davidattlee.com/" />
+    <link rel="canonical" href="davidattlee.com/blog/my-next-blog/" />
 
     
     <link rel="stylesheet" type="text/css" href="/davidattlee.com/css/normalize.min.css" media="print">
@@ -124,81 +123,74 @@
     </nav>
 </header>
 <main id="content">
-<section class="home-about">
-	<div class="avatar">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>My Next Blog</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">December 9, 2023
         
-	</div>
+        </p>
 
-    <h1>David Attlee</h1>
-    
-        <h3>An occasional sprinkle of bullshit.</h3>
-    
-
-</section>
-
-<div class="flex-break"></div>
-
-
-<section class="social-icons">
-    <ul class="social-icons-list">
+        <ul class="post-tags">
         
-        <li class="social-icon">
-            <a href="https://twitter.com/justaboutdavid"  aria-label="Learn more on twitter">
-                <img class="svg-inject" src="/svg/icons/twitter.svg" />
-            </a>
-        </li>
+            <li class="post-tag"><a href="davidattlee.com/tags/blog">blog</a></li>
         
-        <li class="social-icon">
-            <a href="https://github.com/pseudogram"  aria-label="Learn more on github">
-                <img class="svg-inject" src="/svg/icons/github.svg" />
-            </a>
-        </li>
-        
-        <li class="social-icon">
-            <a href="mailto:justaboutdavid@gmail.com"  aria-label="Learn more on email">
-                <img class="svg-inject" src="/svg/icons/email.svg" />
-            </a>
-        </li>
-        
-    </ul>
-</section>
-
-
-
-
-
-
-    <div class="home-posts list-posts">
-        <h2>Recent Posts</h2>
-
-    
-
-    
-        <article class="post-title">
-    <a href="davidattlee.com/blog/my-next-blog/" class="post-link">My Next Blog</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 9, 2023</span>
-</article>
-<article class="post-title">
-    <a href="davidattlee.com/blog/2021/this-is-a-test/" class="post-link">This Is a Test</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 8, 2023</span>
-</article>
-<article class="post-title">
-    <a href="davidattlee.com/blog/productivity-is-a-skill/" class="post-link">Productivity is a skill</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 8, 2023</span>
-</article>
-<article class="post-title">
-    <a href="davidattlee.com/blog/i-hate-mavel/" class="post-link">I hate Marvel</a>
-    <div class="flex-break"></div>
-    <span class="post-date">December 8, 2023</span>
-</article>
-
-    
+        </ul>
     </div>
 
+    <div class="post-content">
+        <p>
+            <p>Testing the waters</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ruby" data-lang="ruby"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">this_is_the_end</span>
+</span></span><span style="display:flex;"><span>	puts <span style="color:#e6db74">&#39;hello&#39;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">end</span>
+</span></span></code></pre></div>
+        </p>
+        
+    </div>
 
+    <div class="prev-next">
+        
+    </div>
+
+    
+    
+    <script>
+        let backToTopButton = document.getElementById("btt-button");
+
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                backToTopButton.style.display = "block";
+            } else {
+                backToTopButton.style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            smoothScrollToTop();
+        }
+
+        function smoothScrollToTop() {
+            const scrollToTop = () => {
+                const c = document.documentElement.scrollTop || document.body.scrollTop;
+                if (c > 0) {
+                    window.requestAnimationFrame(scrollToTop);
+                    window.scrollTo(0, c - c / 8);
+                }
+            };
+            scrollToTop();
+        }
+    </script>
+    
+</div>
+
+
+
+    
 
         </main><footer class="footer">
     

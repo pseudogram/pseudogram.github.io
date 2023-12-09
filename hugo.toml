@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [params]
 showpostsonhomepage = 'recent'
-description = "The occasional sprinkling of bullshit makes the world a bit more fun."
+description = "An occasional sprinkle of bullshit."
 socialIcons = [
   {name = "twitter", url = "https://twitter.com/justaboutdavid"},
   {name = "github", url = "https://github.com/pseudogram"},

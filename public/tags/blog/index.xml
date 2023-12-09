@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on David Attlee</title>
+    <link>davidattlee.com/tags/blog/</link>
+    <description>Recent content in blog on David Attlee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 22:23:24 -0500</lastBuildDate>
+    <atom:link href="davidattlee.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Is a Test</title>
+      <link>davidattlee.com/blog/2021/this-is-a-test/</link>
+      <pubDate>Fri, 08 Dec 2023 22:23:24 -0500</pubDate>
+      <guid>davidattlee.com/blog/2021/this-is-a-test/</guid>
+      <description>this is a test about some shit&#xA;i don&amp;rsquo;t know if the hardlinks work&#xA;really well</description>
+    </item>
+  </channel>
+</rss>

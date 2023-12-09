@@ -4,7 +4,7 @@ date: 2023-12-08T20:50:10-05:00
 type: post
 tags:
   - welcome
-draft: true
+draft: false
 ---
 
 So I'm starting my blog again.

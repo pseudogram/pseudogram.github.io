@@ -11,8 +11,12 @@
     <loc>davidattlee.com/posts/</loc>
     <lastmod>2023-12-08T20:50:10-05:00</lastmod>
   </url><url>
-    <loc>davidattlee.com/categories/</loc>
-  </url><url>
     <loc>davidattlee.com/tags/</loc>
+    <lastmod>2023-12-08T20:50:10-05:00</lastmod>
+  </url><url>
+    <loc>davidattlee.com/tags/welcome/</loc>
+    <lastmod>2023-12-08T20:50:10-05:00</lastmod>
+  </url><url>
+    <loc>davidattlee.com/categories/</loc>
   </url>
 </urlset>

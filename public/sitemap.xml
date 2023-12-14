@@ -2,39 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>davidattlee.com/tags/blog/</loc>
-    <lastmod>2023-12-09T12:12:31-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/</loc>
-    <lastmod>2023-12-09T12:12:31-05:00</lastmod>
+    <loc>davidattlee.com/categories/</loc>
   </url><url>
     <loc>davidattlee.com/</loc>
-    <lastmod>2023-12-09T12:12:31-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/my-next-blog/</loc>
-    <lastmod>2023-12-09T12:12:31-05:00</lastmod>
   </url><url>
     <loc>davidattlee.com/tags/</loc>
-    <lastmod>2023-12-09T12:12:31-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/i-hate-mavel/</loc>
-    <lastmod>2023-12-08T22:23:24-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/productivity-is-a-skill/</loc>
-    <lastmod>2023-12-08T22:23:24-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/tags/test/</loc>
-    <lastmod>2023-12-08T22:23:24-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/2021/this-is-a-test/</loc>
-    <lastmod>2023-12-08T22:23:24-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/blog/2021/hello-world/</loc>
-    <lastmod>2023-12-08T20:50:10-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/tags/welcome/</loc>
-    <lastmod>2023-12-08T20:50:10-05:00</lastmod>
-  </url><url>
-    <loc>davidattlee.com/categories/</loc>
   </url>
 </urlset>

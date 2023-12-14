@@ -6,42 +6,6 @@
     <description>Recent content on David Attlee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Dec 2023 12:12:31 -0500</lastBuildDate>
     <atom:link href="davidattlee.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Next Blog</title>
-      <link>davidattlee.com/blog/my-next-blog/</link>
-      <pubDate>Sat, 09 Dec 2023 12:12:31 -0500</pubDate>
-      <guid>davidattlee.com/blog/my-next-blog/</guid>
-      <description>Testing the waters&#xA;def this_is_the_end puts &amp;#39;hello&amp;#39; end </description>
-    </item>
-    <item>
-      <title>I hate Marvel</title>
-      <link>davidattlee.com/blog/i-hate-mavel/</link>
-      <pubDate>Fri, 08 Dec 2023 22:23:24 -0500</pubDate>
-      <guid>davidattlee.com/blog/i-hate-mavel/</guid>
-      <description>#I no longer like super heros </description>
-    </item>
-    <item>
-      <title>Productivity is a skill</title>
-      <link>davidattlee.com/blog/productivity-is-a-skill/</link>
-      <pubDate>Fri, 08 Dec 2023 22:23:24 -0500</pubDate>
-      <guid>davidattlee.com/blog/productivity-is-a-skill/</guid>
-      <description>another blog post that you nee&#xA;Im just testing that u can update this from anywhere.&#xA;and ill keep updating it here it doesn&amp;rsquo;t work if i update it elsewhere</description>
-    </item>
-    <item>
-      <title>This Is a Test</title>
-      <link>davidattlee.com/blog/2021/this-is-a-test/</link>
-      <pubDate>Fri, 08 Dec 2023 22:23:24 -0500</pubDate>
-      <guid>davidattlee.com/blog/2021/this-is-a-test/</guid>
-      <description>this is a test about some shit&#xA;i don&amp;rsquo;t know if the hardlinks work&#xA;really well</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>davidattlee.com/blog/2021/hello-world/</link>
-      <pubDate>Fri, 08 Dec 2023 20:50:10 -0500</pubDate>
-      <guid>davidattlee.com/blog/2021/hello-world/</guid>
-      <description>So I&amp;rsquo;m starting my blog again.&#xA;I lost all my previous posts because I neglected the server my old blog was on. It needed maintenance, I couldn&amp;rsquo;t be bothered to fix it. Out with the old, in with the new.&#xA;I think it&amp;rsquo;ll be easier to post this time round because I&amp;rsquo;ve set up a system that makes it really easy.</description>
-    </item>
   </channel>
 </rss>

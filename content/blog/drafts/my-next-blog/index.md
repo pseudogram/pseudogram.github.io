@@ -1,7 +1,7 @@
 ---
 title: My Next Blog
 date: 2023-12-09T12:12:31-0500
-draft: false
+draft: true
 type: post
 tags:
   - blog
